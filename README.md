@@ -1,3 +1,12 @@
+## React Component Types
+
+- createReactClass in ES5
+- Normal javascript functions
+- Arrow Functions,
+- Functional Expression,
+- Class components in ES6
+You can check more about [multiple ways to Create React UI Components](https://cloudhadoop.com/reactjs-create-component-multiple-ways).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
